@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\bin\Debug\net8.0\start-project.exe
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\bin\Debug\net8.0\start-project.deps.json
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\bin\Debug\net8.0\start-project.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\bin\Debug\net8.0\start-project.dll
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\bin\Debug\net8.0\start-project.pdb
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.dll
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\refint\start-project.dll
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.pdb
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\start-project.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\c# tutorial\start-project\obj\Debug\net8.0\ref\start-project.dll
