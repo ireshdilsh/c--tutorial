@@ -4,8 +4,10 @@ using System;
 
 namespace start_project{
     class Program{
-        static void Main(string[] args){
+        static void Main(string[] args)
+        {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
